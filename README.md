@@ -1,12 +1,2 @@
-- 👋 Hi, I’m MD. Mehedi Hasan Talha
-- 👀 I’m interested in Web Application Development.
-- 🌱 I’m currently learning MERN Stack.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Programming-LAB-BD/Programming-LAB-BD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center"> <strong> MD. Mehedi Hasan Talha <strong/> </h1>
+<h3 align="center">Frontend Web Application Developer</h3>
