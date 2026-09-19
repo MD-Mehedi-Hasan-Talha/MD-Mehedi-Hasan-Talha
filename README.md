@@ -1,9 +1,6 @@
 <p align="center">
   <img src="./assets/banner.png" width="100%" alt="Think in systems. Build with intent." />
 </p>
-<p align="center">
-  <img src="./assets/portrait.png" width="164" alt="Portrait of MD. Mehedi Hasan Talha" />
-</p>
 <h1 align="center">MD. Mehedi Hasan Talha</h1>
 <p align="center"><strong>Full-Stack Engineer</strong><br />Application ecosystems · Thoughtful architecture · Engineering craft</p>
 <p align="center">Based in Rajshahi, Bangladesh · Originally from Kushtia</p>
