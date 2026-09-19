@@ -106,17 +106,8 @@ These include supporting tools and technologies from earlier work. JavaScript re
   <img src="https://streak-stats.demolab.com?user=MD-Mehedi-Hasan-Talha&theme=github-dark-blue&hide_border=true" width="78%" alt="GitHub contribution streak, current streak and longest streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-Mehedi-Hasan-Talha&bg_color=0d1117&color=c9d1d9&line=7ee7c1&point=79c0ff&area=true&area_color=1f6f5b&hide_border=true" width="100%" alt="Recent GitHub contribution activity graph" />
+  <img src="https://github-activity-tracker.mehedihasantalha.com/graph?username=MD-Mehedi-Hasan-Talha&bg_color=0d1117&color=c9d1d9&line=7ee7c1&point=79c0ff&area=true&area_color=1f6f5b&hide_border=true" width="100%" alt="Recent GitHub contribution activity graph" />
 </p>
-
-### A year in small steps
-
-<p align="center">
-  <a href="https://github.com/MD-Mehedi-Hasan-Talha?tab=overview">
-    <img src="https://ghchart.rshah.org/7ee7c1/MD-Mehedi-Hasan-Talha" width="100%" alt="Annual GitHub contribution calendar" />
-  </a>
-</p>
-<p align="center"><sub>These cards reflect the data available to their providers; they are a contribution snapshot, not the full scope of my engineering work.</sub></p>
 
 ## Learning, with evidence
 
